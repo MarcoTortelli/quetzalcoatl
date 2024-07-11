@@ -12,26 +12,34 @@ Quetzalcoatl é um bot de Discord projetado para facilitar o rastreamento de enc
 ## Comandos
 
 ### `!track [código]`
+
 Adiciona um código de rastreamento para ser monitorado pelo bot.
-```
+
+```powershell
 !track AA123456789BR
 ```
 
 ### `!status [código]`
+
 Verifica o status atual de uma encomenda rastreada.
-```
+
+```powershell
 !status AA123456789BR
 ```
 
 ### `!list`
+
 Lista todas as encomendas sendo rastreadas pelo bot.
-```
-!list
+
+```powershell
+!list;
 ```
 
 ### `!remove [código]`
+
 Remove um código de rastreamento da lista.
-```
+
+```powershell
 !remove AA123456789BR
 ```
 

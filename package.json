@@ -1,0 +1,19 @@
+{
+	"name": "quetzalcoatl",
+	"version": "1.0.0",
+	"description": "Bot de Discord para rastrear encomendas dos Correios",
+	"main": "index.js",
+	"repository": "https://github.com/MarcoTortelli/quetzalcoatl.git",
+	"author": "Marco Antonio Barro Tortelli <marcobarrotortelli@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"correios-brasil": "^3.0.6",
+		"discord.js": "^14.15.3",
+		"typescript": "^5.5.3"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.8.3",
+		"nodemon": "^3.1.4"
+	},
+	"type": "module"
+}
