@@ -1,5 +1,5 @@
-import * as ping from './utility/ping';
+import * as oscircuitosdeconsagracao from './utility/ping';
 
 export const commands = {
-	ping,
+	oscircuitosdeconsagracao,
 };
